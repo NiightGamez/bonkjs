@@ -2,4 +2,4 @@
 
 
 # Projects:
-<a href="niightap.github.io/bonkjs/bonk.html">Bonk</a>
+<a href="/bonk.html">Bonk</a>
