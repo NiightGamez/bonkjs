@@ -2,6 +2,6 @@
 
 # Projects:
 Bonk : 
-<input class="MyButton" type="button" value="NG Home" onclick="window.location.href='bonk.redirect'" />
+<input class="MyButton" type="button" value="NG Home" onclick="window.location.href='bonk-redirect.html'" />
 
 
