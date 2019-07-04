@@ -3,7 +3,7 @@
 
 
 # Projects:
-Bonk : 
-<input class="MyButton" type="button" value="Bonk" onclick="window.location.href='bonk-redirect.html'" />
+Bonk : [Page](https://niightap.github.io/bonkjs/bonk.html)
+
 
 
